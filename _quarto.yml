@@ -1,14 +1,16 @@
 project:
   type: website
+  resources: 
+  - resume.pdf
 
 website:
-  title: "Personal Website"
+  title: "Jeremy Reyes"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -16,7 +18,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

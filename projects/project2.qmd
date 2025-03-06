@@ -1,0 +1,7 @@
+---
+title: Crime rates in UCLA vs USC
+image: "images/ucla_vs_usc.jpg"
+subtitle: Is the difference in crime rate significant?
+---
+
+blah blahblah

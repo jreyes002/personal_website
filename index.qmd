@@ -1,11 +1,23 @@
 ---
-title: "resume_website"
+title: "Jeremy Reyes"
+image: avatar.JPG
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/jeremy-reyes-91b913290/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/jreyes002"
+    - text: Email
+      url: "jeremy0e0reyes@gmail.com"
+    - text: Resume
+      url: "cv.pdf"
+comments: false
 ---
+  
+## Bio
 
-This is a Quarto website.
+Hello! My name is Jeremy Reyes. I'm currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I created this site to show off some of the work I'm most proud of.

@@ -4,13 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.71881372 0.26984481 0.17618289 0.57854773 0.66230570 0.02421783\n [7] 0.63602390 0.04629487 0.73395738 0.96655703"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.2445087 0.8575097 0.5658999 0.4049085 0.7477755 0.6975163 0.4206567\n [8] 0.5134867 0.2184680 0.7671462"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Jeremy Reyes",
+    "section": "",
+    "text": "Metaverse Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrime rates in UCLA vs USC\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Metaverse Analysis",
+    "section": "",
+    "text": "blah blahblah"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "resume_website",
+    "title": "Jeremy Reyes",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.\nI created this site to show off some of the work I’m most proud of."
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Crime rates in UCLA vs USC",
+    "section": "",
+    "text": "blah blahblah"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Jeremy Reyes",
+    "section": "",
+    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.\nI created this site to show off some of the work I’m most proud of."
   }
 ]
