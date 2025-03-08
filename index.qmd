@@ -1,5 +1,6 @@
 ---
 title: "Jeremy Reyes"
+subtitle: "Statistics & Data Science B.S."
 image: avatar.JPG
 about:
   template: trestles
@@ -10,14 +11,16 @@ about:
       icon: github
       url: "https://github.com/jreyes002"
     - text: Email
-      url: "jeremy0e0reyes@gmail.com"
+      url: "mailto:jeremy0e0reyes@gmail.com"
     - text: Resume
-      url: "cv.pdf"
+      url: "resume.pdf"
 comments: false
 ---
   
 ## Bio
 
-Hello! My name is Jeremy Reyes. I'm currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.
+Hello! My name is Jeremy Reyes. I'm currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I'm also minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.
 
-I created this site to show off some of the work I'm most proud of.
+## About
+
+I created this site to show off some of the work I'm most proud of from my time at UCLA. This includes projects from my Digital Humanities 120 - Social Media Data Analytics and STATS 140XP - Practice of Statistical Consulting classes, but other relevant classes include DH 101 and the STATS 101 series.

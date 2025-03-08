@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - solar
       - brand
     css: styles.css
     toc: false

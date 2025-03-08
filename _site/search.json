@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.2445087 0.8575097 0.5658999 0.4049085 0.7477755 0.6975163 0.4206567\n [8] 0.5134867 0.2184680 0.7671462"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.118169375 0.005370121 0.210195109 0.938459237 0.129257174 0.514909679\n [7] 0.543770207 0.629723185 0.776749102 0.056049373"
   },
   {
     "objectID": "projects.html",
@@ -18,27 +18,34 @@
     "href": "projects/project1.html",
     "title": "Metaverse Analysis",
     "section": "",
-    "text": "blah blahblah"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jeremy Reyes",
-    "section": "",
-    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.\nI created this site to show off some of the work I’m most proud of."
+    "text": "I was struggling to come up with ideas for my DH 120: Social Media Data Analytics research project and often found myself jumping between multiple ideas. Then, I was suggested by my TA to do something on (formerly) Facebook’s Metaverse, since I was previously thinking about digital entertainment for my idea. I thought, “do people still care about the Metaverse?”, and that’s how this project came to be. I was not only interested in what happened to the Metaverse, but also how its fallout potentially impacted future innovation in this sphere.\nThis research project dives into this topic and specifically asks: How has public sentiment towards the Metaverse evolved since it was unveiled during the COVID-19 pandemic? What does this reveal about societal attitudes towards digital innovation and virtual worlds? The short answer: the main population that was interested in the Metaverse in the beginning and even now was crypto enthusiasts; the Metaverse failed to capture and retain the attention of a wider audience.\nHere is the white paper, as well as an accompanying info graphic for a quick summary of my findings."
   },
   {
     "objectID": "projects/project2.html",
     "href": "projects/project2.html",
     "title": "Crime rates in UCLA vs USC",
     "section": "",
-    "text": "blah blahblah"
+    "text": "For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between UCLA and USC and decided to base our research off of that.\nWe conducted some analysis to test if there was a significant difference in crime rates between the two areas. Additionally, we tested if there was a significant difference in factors (victim demographics, crime type, etc.) between them.\nThis research project is still ongoing! In the meantime, here is a presentation of our findings so far\n\n#{{&lt; video &gt;}}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeremy Reyes",
+    "section": "",
+    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I’m also minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Jeremy Reyes",
     "section": "",
-    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I also am minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization.\nI created this site to show off some of the work I’m most proud of."
+    "text": "Hello! My name is Jeremy Reyes. I’m currently a 4th year student at UCLA who transferred from Long Beach City College. While my major is in Stats and Data Science, I’m also minoring in Digital Humanities. Combined together, I often consider myself a strong candidate for the creative side of statistical analysis and visualization."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Jeremy Reyes",
+    "section": "About",
+    "text": "About\nI created this site to show off some of the work I’m most proud of from my time at UCLA. This includes projects from my Digital Humanities 120 - Social Media Data Analytics and STATS 140XP - Practice of Statistical Consulting classes, but other relevant classes include DH 101 and the STATS 101 series."
   }
 ]

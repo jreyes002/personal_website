@@ -4,4 +4,9 @@ image: "images/metaverse.jpeg"
 subtitle: What happened to it and who still cares about it?
 ---
 
-blah blahblah
+I was struggling to come up with ideas for my DH 120: Social Media Data Analytics research project and often found myself jumping between multiple ideas. Then, I was suggested by my TA to do something on (formerly) Facebook's Metaverse, since I was previously thinking about digital entertainment for my idea. I thought, "do people still care about the Metaverse?", and that's how this project came to be. I was not only interested in what happened to the Metaverse, but also how its fallout potentially impacted future innovation in this sphere.
+
+This research project dives into this topic and specifically asks: How has public sentiment towards the Metaverse evolved since it was unveiled during the COVID-19 pandemic? What does this reveal about societal attitudes towards digital innovation and virtual worlds? The short answer: the main population that was interested in the Metaverse in the beginning and even now was crypto enthusiasts; the Metaverse failed to capture and retain the attention of a wider audience.
+
+Here is the [white paper](metaverse.pdf), as well as an accompanying info graphic for a quick summary of my findings.
+![](metaverse_infographic.jpg)
