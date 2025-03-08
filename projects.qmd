@@ -8,6 +8,7 @@ listing:
     sort-ui: false
     filter-ui: true
     type: grid
+    grid-item-border: false
     fields: 
       - title
       - image
