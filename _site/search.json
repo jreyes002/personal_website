@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.5525317 0.9055515 0.1152949 0.7830571 0.3898779 0.6370688 0.1134188\n [8] 0.3855993 0.6434294 0.4838941"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.8947366 0.1667510 0.3540852 0.9406436 0.5356964 0.3754421 0.7601292\n [8] 0.3738121 0.3515562 0.1089103"
   },
   {
     "objectID": "projects.html",
@@ -18,14 +18,14 @@
     "href": "projects/project1.html",
     "title": "Metaverse Analysis",
     "section": "",
-    "text": "I was struggling to come up with ideas for my DH 120: Social Media Data Analytics research project and often found myself jumping between multiple ideas. Then, I was suggested by my TA to do something on (formerly) Facebook’s Metaverse, since I was previously thinking about digital entertainment for my idea. I thought, “do people still care about the Metaverse?”, and that’s how this project came to be. I was not only interested in what happened to the Metaverse, but also how its fallout potentially impacted future innovation in this sphere.\nThis research project dives into this topic and specifically asks: How has public sentiment towards the Metaverse evolved since it was unveiled during the COVID-19 pandemic? What does this reveal about societal attitudes towards digital innovation and virtual worlds? The short answer: the main population that was interested in the Metaverse in the beginning and even now was crypto enthusiasts; the Metaverse failed to capture and retain the attention of a wider audience.\nHere is the white paper, as well as an accompanying info graphic for a quick summary of my findings."
+    "text": "I was struggling to come up with ideas for my DH 120: Social Media Data Analytics research project and often found myself jumping between multiple ideas. Then, I was suggested by my TA to do something on (formerly) Facebook’s Metaverse, since I was previously thinking about digital entertainment for my idea. I thought, “do people still care about the Metaverse?”, and that’s how this project came to be. I was not only interested in what happened to the Metaverse, but also how its fallout potentially impacted future innovation in this sphere.\nThis research project dives into this topic and specifically asks: How has public sentiment towards the Metaverse evolved since it was unveiled during the COVID-19 pandemic? What does this reveal about societal attitudes towards digital innovation and virtual worlds?\nThe short answer: the main population that was interested in the Metaverse in the beginning and even now was crypto enthusiasts; the Metaverse failed to capture and retain the attention of a wider audience.\nHere is the white paper, as well as an accompanying info graphic for a quick summary of my findings."
   },
   {
     "objectID": "projects/project2.html",
     "href": "projects/project2.html",
     "title": "Crime rates in UCLA vs USC",
     "section": "",
-    "text": "For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between UCLA and USC and decided to base our research off of that.\nWe conducted some analysis to test if there was a significant difference in crime rates between the two areas. Additionally, we tested if there was a significant difference in factors (victim demographics, crime type, etc.) between them.\nThis research project is still ongoing! In the meantime, here is a presentation of our findings so far\n\n#{{&lt; video &gt;}}"
+    "text": "For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between the UCLA and USC areas and decided to base our research off of that.\nWe conducted some analysis to test if there was a significant difference in crime rates between the two areas. Additionally, we tested if there was a significant difference in factors (victim demographics, crime type, etc.) between them.\nOur analysis found that there is indeed a significant difference in crime rates between UCLA and USC during this period, where crime was significantly more common in the USC area. Additionally, there is a significant difference in factors between the areas. Specifically…\n\n\n\nPoster deck of our findings\n\n\n\n#{{&lt; video &gt;}}"
   },
   {
     "objectID": "index.html",

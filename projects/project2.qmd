@@ -4,12 +4,13 @@ image: "images/ucla_vs_usc.jpg"
 subtitle: Is the difference in crime rate significant?
 ---
 
-For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between UCLA and USC and decided to base our research off of that.
+For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between the UCLA and USC areas and decided to base our research off of that.
 
 We conducted some analysis to test if there was a significant difference in crime rates between the two areas. Additionally, we tested if there was a significant difference in factors (victim demographics, crime type, etc.) between them.
 
-This research project is still ongoing! In the meantime, here is a presentation of our findings so far
+Our analysis found that there is indeed a significant difference in crime rates between UCLA and USC during this period, where crime was significantly more common in the USC area. Additionally, there is a significant difference in factors between the areas. Specifically...
 
+![Poster deck of our findings](poster.jpg)
 
 ```{r}
 #{{< video >}}
