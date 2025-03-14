@@ -12,6 +12,7 @@ listing:
     fields: 
       - title
       - image
+      - subtitle
     categories: false
 ---
 

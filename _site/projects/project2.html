@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Crime rates in UCLA vs USC – Jeremy Reyes</title>
+<title>UCLA vs USC vs Crime: How Crime Differs between the Two Universities in the LA Area – Jeremy Reyes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -73,6 +39,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-97e8118aa17df01863e4d4c59f1f926f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -147,8 +115,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Crime rates in UCLA vs USC</h1>
-<p class="subtitle lead">Is the difference in crime rate significant?</p>
+<h1 class="title">UCLA vs USC vs Crime: How Crime Differs between the Two Universities in the LA Area</h1>
+<p class="subtitle lead">Is the difference in crime rate significant? What else is significantly different?</p>
 </div>
 
 
@@ -167,16 +135,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <p>For my STATS 140XP: Practice of Statistical Consulting group research project, we knew we wanted to analyze a dataset provided by the LAPD on crimes in LA, but we were unsure what to specifically focus on. There was a lot of data to work with, we just needed a good idea! Since we had the coordinates of crime locations on hand, we found ourselves intrigued about the crime difference between the UCLA and USC areas and decided to base our research off of that.</p>
 <p>We conducted some analysis to test if there was a significant difference in crime rates between the two areas. Additionally, we tested if there was a significant difference in factors (victim demographics, crime type, etc.) between them.</p>
-<p>Our analysis found that there is indeed a significant difference in crime rates between UCLA and USC during this period, where crime was significantly more common in the USC area. Additionally, there is a significant difference in factors between the areas. Specifically…</p>
+<p>Our analysis found that there is indeed a significant difference in crime rates between UCLA and USC during this period, where crime was significantly more common in the USC area. Additionally, there is a significant difference in factors between the areas, specifically victim sex and victim descent. From this, we also concluded that both universities, especially USC, could benefit from enhancing its security and education of safety in order to protect their most vulnerable demographics.</p>
+<p>This topic was very interesting to us and I’m especially hopeful that this can be further explored in greater detail. In the meantime, here is the <a href="report.pdf">report</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="poster.jpg" class="img-fluid figure-img"></p>
-<figcaption>Poster deck of our findings</figcaption>
+<figcaption>A poster deck of our findings</figcaption>
 </figure>
 </div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#{{&lt; video &gt;}}</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<p>UCLA vs USC vs Crime: How Crime Differs between the Two Universities in the LA Area presented by me and two of my group mates: Bryan and Zijia.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="presentation.mp4"></video></div>
 
 
 
@@ -599,6 +567,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 
