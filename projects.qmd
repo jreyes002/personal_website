@@ -16,4 +16,5 @@ listing:
     categories: false
 ---
 
-:::project-listing:::
+::: project-listing:::
+:::

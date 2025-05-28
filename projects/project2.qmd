@@ -14,5 +14,4 @@ This topic was very interesting to us and I'm especially hopeful that this can b
 
 ![A poster deck of our findings](poster.jpg)
 
-UCLA vs USC vs Crime: How Crime Differs between the Two Universities in the LA Area presented by me and two of my group mates: Bryan and Zijia.
-{{< video presentation.mp4 >}}
+UCLA vs USC vs Crime: How Crime Differs between the Two Universities in the LA Area presented by me and two of my group mates: Bryan and Zijia. {{< video presentation.mp4 >}}
